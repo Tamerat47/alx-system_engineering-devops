@@ -1,0 +1,1 @@
+bash script of pwd
